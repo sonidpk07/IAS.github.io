@@ -1,0 +1,121 @@
+@media (max-width:767px){
+	.img-responsive{
+		max-width:50%;
+		min-width:300px;
+	}  
+}/* For admin page images*/
+
+
+
+/* For google form */
+@media (max-width:767px){
+	.gform {
+		max-width:100%;
+	}
+}
+
+@media (max-width:1197px){
+	.gform {
+		max-width:90%;
+	}
+}
+
+
+/* For carousel images*/
+@media (max-width:767px){
+	.thumbnailSize {
+		max-width:100%;
+		max-height:10%;
+		
+	}
+}
+
+
+
+
+
+#fbpage{
+width: 280px;
+height: 350px;
+background-color: #e5e5e5;
+ }
+
+
+.page-header {
+	margin-top: 0;
+}
+
+.panel-body{
+	padding-top: 0;
+}
+
+
+
+.news-thumb img:hover{
+	transform:scale(1.1);
+}
+.newsdivider{
+	letter-spacing: 2px;
+	color:#2E28A2;
+}
+.namedivider{
+	letter-spacing: 1px;
+	color:#2E28A2;
+}
+.mainlogo{
+	letter-spacing: 2px;
+}
+
+.newsdivider2{
+	letter-spacing: 2px;
+	color:#2E28A2;
+	padding-left:90px;
+}
+
+.content{
+	padding-top: 60px;
+}
+
+.head{
+	padding-top:15px;
+	
+}
+
+/* heading color   */
+.navbar-default .navbar-brand {
+    color: #C4C5CA;
+	margin-top:-25px;
+	
+}
+/* menu color  */
+.navbar-default .navbar-nav>li>a {
+    color: #C4C5CA;
+	font-size:17px;
+}
+
+.menuitems{
+	font-size:21px;	
+	padding-left:1px;
+	letter-spacing: 1px;
+	font-family:"Comic Sans MS", cursive, sans-serif
+	
+}
+/* header color   */
+.navbar-default {
+    background-color:#2E28A2;
+    border-color:black;
+	
+}
+	
+.mission{
+	color:grey;
+	font-size:17px;
+}	
+
+
+.jumbotron {
+    padding-top: 10px;
+    padding-bottom: 48px;
+    padding-left: 1px;
+    padding-right: 1px;
+}
